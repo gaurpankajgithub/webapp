@@ -1,11 +1,1 @@
-fdjkdsksdj
-<<<<<<< HEAD
-sdfjsd
-fsdfs
-sd
-sdj
-=======
-sdfjsdj
-new data...
-
->>>>>>> refs/remotes/origin/master
+local data
